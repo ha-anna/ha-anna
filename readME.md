@@ -26,10 +26,28 @@ I am a Front-end designer & developer who focuses on designing beautiful and fun
 - :beach_umbrella: When I am not coding or designing, I am hanging out with the local stray cats, learning Korean, or learning to play golf.
 - :envelope: How to reach me: <anna@haanna.com>
 
-![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-
 ---
+
+## :book: Education:
+
+![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
+- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 44%)
+- [JavaScript Deep Dive Bootcamp](https://scrimba.com/certificate/uZReY5fx/gjavascript)
+
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+- [Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 43%)
+- [Bootstrap Course](https://www.codecademy.com/profiles/haanna/certificates/0595479d03627a8cb816b069000e4d06)
+
+![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+ - [UX/UI Design](https://www.coursera.org/account/accomplishments/specialization/certificate/GSKY8ZMG87AA)
+    - Visual Elements of User Interface Design
+    - UX Design Fundamentals
+    - Web Design: Strategy and Information Architecture
+    - Web Design: Wireframes to Prototypes
+ 
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+ - [Graphic Design Masterclass](https://www.udemy.com/certificate/UC-4ac389aa-4854-42aa-a2aa-2e722b3158bc/) 
+ - [Illustrator 2022 MasterClass](https://www.udemy.com/certificate/UC-1498efc7-209c-4868-9845-9efce08ed34b/)
 
 ## :hammer_and_wrench: Languages and Tools:
 
