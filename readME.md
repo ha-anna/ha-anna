@@ -1,8 +1,8 @@
-<div id="header" style="align: center">
+<div id="header" align="center">
     <h1>Hi there! 👋</h1>
     <img src="gh_icon.png">
 </div>
-<div id="badges" style="align: center">
+<div id="badges" align="center">
     <a href="https://www.haanna.com">
         <img src="https://img.shields.io/badge/www.haanna.com-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a><br> 
     <a href="https://www.linkedin.com/in/itshaanna/">
