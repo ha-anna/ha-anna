@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there! 👋</h1>
-    <img src="gh_icon.png">
+    <img src="./its-haanna/gh_icon.png">
 </div>
 <div id="badges" align="center">
     <a href="https://www.haanna.com">
