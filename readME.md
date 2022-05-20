@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there! 👋</h1>
-    <img src="./its-haanna/gh_icon.png">
+    <img src="gh_icon.png">
 </div>
 <div id="badges" align="center">
     <a href="https://www.haanna.com">
@@ -28,9 +28,9 @@ I am a Front-end designer & developer who focuses on designing beautiful and fun
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
-## :art: Design:
+### :art: Design:
 
 <div>
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
