@@ -21,9 +21,9 @@
 
 I am a Front-end designer & developer who focuses on designing beautiful and functional user experiences.
 
-- :poland: I am Polish but living in Seoul, South Korea :kr:.
+- :poland: I am Polish born and raised but now living in Seoul, South Korea :kr:.
 - :seedling: Currently, I am deep-diving into JavaScript while also learning how to use SASS.
-- :beach_umbrella: When I am not coding or designing, I am hanging out with the local stray cats , learning Korean or learning to play golf.
+- :beach_umbrella: When I am not coding or designing, I am hanging out with the local stray cats, learning Korean, or learning to play golf.
 - :mailbox: How to reach me: <anna@haanna.com>
 
 ---
@@ -34,4 +34,7 @@ I am a Front-end designer & developer who focuses on designing beautiful and fun
 
 <div>
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+
 </div>
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
