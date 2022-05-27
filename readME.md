@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me:
 
-I am a Front-end designer & developer who focuses on designing beautiful and functional user experiences.
+I am a Front-end developer & designer who focuses on designing beautiful and functional user experiences.
 
 - :poland: I am Polish born and raised but now living in Seoul, South Korea :kr:.
 - :seedling: Currently, I am deep-diving into JavaScript while also learning how to use SASS.
