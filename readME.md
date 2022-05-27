@@ -26,6 +26,10 @@ I am a Front-end developer & designer who focuses on designing beautiful and fun
 - :beach_umbrella: When I am not coding or designing, I am hanging out with the local stray cats, learning Korean, or learning to play golf.
 - :envelope: How to reach me: <anna@haanna.com>
 
+<br>
+
+[![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-haanna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## :book: Education:
