@@ -35,7 +35,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ## :book: Education:
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 44%)
+- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 77%)
 - [JavaScript Deep Dive Bootcamp](https://scrimba.com/certificate/uZReY5fx/gjavascript)
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
