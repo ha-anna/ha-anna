@@ -15,6 +15,8 @@
     <a href="https://twitter.com/haanna_dev">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=its-haanna&label=Profile%20views&color=0e75b6&style=flat" alt="its-haanna" />
 </div>
 
 ### :woman_technologist: About Me:
