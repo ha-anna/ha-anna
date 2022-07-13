@@ -37,12 +37,18 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ## :book: Education:
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 77%)
+- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 83%)
 - [JavaScript Deep Dive Bootcamp](https://scrimba.com/certificate/uZReY5fx/gjavascript)
+- [Learn React](https://scrimba.com/certificate/uZReY5fx/glearnreact)
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-- [Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 43%)
+- [Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 46%)
 - [Bootstrap Course](https://www.codecademy.com/profiles/haanna/certificates/0595479d03627a8cb816b069000e4d06)
+- [Basics of Regular Expressions Course](https://www.codecademy.com/profiles/haanna/certificates/9da8e26980d5139405439ee7578b8b69)
+- [Sass course](https://www.codecademy.com/profiles/haanna/certificates/eb1ffda40f347629dcef6de33d3f9741)
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+- [Responsive Web Design](https://freecodecamp.org/certification/haanna/responsive-web-design)
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
  - [UX/UI Design](https://www.coursera.org/account/accomplishments/specialization/certificate/GSKY8ZMG87AA)
