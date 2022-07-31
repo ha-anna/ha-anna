@@ -42,7 +42,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 - [Learn React](https://scrimba.com/certificate/uZReY5fx/glearnreact)
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-- [Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (Completion: 46%)
+- [Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (WIP)
 - [Bootstrap Course](https://www.codecademy.com/profiles/haanna/certificates/0595479d03627a8cb816b069000e4d06)
 - [Basics of Regular Expressions Course](https://www.codecademy.com/profiles/haanna/certificates/9da8e26980d5139405439ee7578b8b69)
 - [Sass course](https://www.codecademy.com/profiles/haanna/certificates/eb1ffda40f347629dcef6de33d3f9741)
