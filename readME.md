@@ -60,6 +60,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
  - [Graphic Design Masterclass](https://www.udemy.com/certificate/UC-4ac389aa-4854-42aa-a2aa-2e722b3158bc/) (completed)
  - [Illustrator 2022 MasterClass](https://www.udemy.com/certificate/UC-1498efc7-209c-4868-9845-9efce08ed34b/) (completed)
+ - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) (WIP)
 
 ## :hammer_and_wrench: Languages and Tools:
 
