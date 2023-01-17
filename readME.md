@@ -30,8 +30,8 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 
 <br>
 
-[![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-haanna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-haanna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 ---
 
 ## :book: Education:
