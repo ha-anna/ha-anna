@@ -8,13 +8,15 @@
     <a href="https://www.linkedin.com/in/itshaanna/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://www.codewars.com/users/haanna">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="COdewars Badge"/></a>
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/></a>
     <br>
     <a href="https://codepen.io/haanna">
         <img src="https://img.shields.io/badge/codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></a>
     <a href="https://twitter.com/haanna_dev">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <br>
+    <img src="https://www.codewars.com/users/haanna/badges/micro?theme=light" alt="Codewars Kyu"/></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=its-haanna&label=Profile%20views&color=0e75b6&style=flat" alt="its-haanna" />
 </div>
