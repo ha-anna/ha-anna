@@ -53,6 +53,9 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 - [Responsive Web Design](https://freecodecamp.org/certification/haanna/responsive-web-design) (completed)
+- [JavaScript Algorithms and Data Structures](https://freecodecamp.org/certification/haanna/javascript-algorithms-and-data-structures) (completed)
+- [Back End Development and APIs](https://freecodecamp.org/certification/haanna/back-end-development-and-apis) (completed)
+- [Data Visualization](https://www.freecodecamp.org/learn/data-visualization) (WIP)
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
  - [UX/UI Design](https://www.coursera.org/account/accomplishments/specialization/certificate/GSKY8ZMG87AA) (completed)
