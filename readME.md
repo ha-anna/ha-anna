@@ -32,8 +32,8 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 
 <br>
 
-<!-- [![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-haanna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- -->
+[![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-haanna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## :book: Education:
@@ -79,6 +79,8 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-haanna&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :books: Frameworks:
 
