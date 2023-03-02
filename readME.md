@@ -58,11 +58,11 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 - [Data Visualization](https://www.freecodecamp.org/certification/haanna/data-visualization) (completed)
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
- - [UX/UI Design](https://www.coursera.org/account/accomplishments/specialization/certificate/GSKY8ZMG87AA) (completed)
-    - Visual Elements of User Interface Design
-    - UX Design Fundamentals
-    - Web Design: Strategy and Information Architecture
-    - Web Design: Wireframes to Prototypes
+ - [UX/UI Design Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GSKY8ZMG87AA) (completed)
+    - Visual Elements of User Interface Design Course
+    - UX Design Fundamentals Course
+    - Web Design: Strategy and Information Architecture Course
+    - Web Design: Wireframes to Prototypes Course
  
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
  - [Graphic Design Masterclass](https://www.udemy.com/certificate/UC-4ac389aa-4854-42aa-a2aa-2e722b3158bc/) (completed)
