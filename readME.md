@@ -38,8 +38,8 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 
 ## :book: Education:
 
-![Full stack open](https://img.shields.io/badge/-Full%20stack%20open-lightgrey?style=for-the-badge&label=fs)
-- [Full Stack open](https://fullstackopen.com/en/) (WIP)
+![Full stack Open](https://img.shields.io/badge/-Full%20stack%20open-lightgrey?style=for-the-badge&label=fs)
+- [Full Stack Open](https://fullstackopen.com/en/) (WIP)
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 - [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (completed)
