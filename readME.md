@@ -69,6 +69,8 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
  - [Illustrator 2022 MasterClass](https://www.udemy.com/certificate/UC-1498efc7-209c-4868-9845-9efce08ed34b/) (completed)
  - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) (WIP)
  - [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/) (WIP)
+ - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) (WIP)
+ - [JavaScript: Understanding ES6 and Beyond](https://www.udemy.com/course/javascript-understanding-es6-and-beyond/) (WIP)
 
 ## :hammer_and_wrench: Languages and Tools:
 
