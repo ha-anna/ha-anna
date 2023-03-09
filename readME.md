@@ -26,7 +26,7 @@
 I am a Front-end developer & designer who focuses on creating beautiful and functional user experiences.
 
 - :poland: Orignally from Poland but now living in Seoul, South Korea :kr:.
-- :seedling: Currently, I am learning TypeScript and Node.js.
+- :seedling: Currently, I am learning TypeScript and Node.js. I also work as a non-profit translator for freeCodeCamp's curriculum (English -> Polish)
 - :beach_umbrella: When I am not coding or designing, I am hanging out with the local stray cats, learning Korean, or learning to play golf.
 - :envelope: How to reach me: <anna@haanna.com>
 
