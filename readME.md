@@ -42,7 +42,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 - [Full Stack Open](https://fullstackopen.com/en/) (WIP)
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-- [The Frontend Developer Career Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) (completed)
+- [The Frontend Developer Career Path](https://scrimba.com/certificate/uZReY5fx/gfrontend) (completed)
 - [JavaScript Deep Dive Bootcamp](https://scrimba.com/certificate/uZReY5fx/gjavascript) (completed)
 - [Learn React](https://scrimba.com/certificate/uZReY5fx/glearnreact) (completed)
 
