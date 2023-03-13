@@ -67,9 +67,9 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
  - [Graphic Design Masterclass](https://www.udemy.com/certificate/UC-4ac389aa-4854-42aa-a2aa-2e722b3158bc/) (completed)
  - [Illustrator 2022 MasterClass](https://www.udemy.com/certificate/UC-1498efc7-209c-4868-9845-9efce08ed34b/) (completed)
+ - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/certificate/UC-cc81fa64-3850-4a32-bc0c-9e59eb8835ba/) (completed)
  - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) (WIP)
  - [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/) (WIP)
- - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) (WIP)
  - [JavaScript: Understanding ES6 and Beyond](https://www.udemy.com/course/javascript-understanding-es6-and-beyond/) (WIP)
 
 ## :hammer_and_wrench: Languages and Tools:
