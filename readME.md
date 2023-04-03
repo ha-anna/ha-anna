@@ -38,6 +38,10 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 
 ## :book: Education:
 
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- [Skills of Tomorrow](https://rsvp.withgoogle.com/events/umiejetnoscijutra/strona-glowna) (WIP)<br>
+  <sub>internet marketing, Google Analytics tools, SEM, SEO, copywriting, email marketing, management</sub> 
+
 ![Full stack Open](https://img.shields.io/badge/-Full%20stack%20open-lightgrey?style=for-the-badge&label=fs)
 - [Full Stack Open](https://fullstackopen.com/en/) (WIP)
 
