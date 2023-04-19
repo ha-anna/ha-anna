@@ -75,6 +75,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
  - [JavaScript: Understanding ES6 and Beyond](https://www.udemy.com/certificate/UC-97e83b1d-8fcf-4f85-9f8a-f7a3b0808297/) (completed)
  - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) (WIP)
  - [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/) (WIP)
+ - [The Complete SQL Masterclass 2023](https://www.udemy.com/course/15-days-of-sql/) (WIP)
 
 ## :hammer_and_wrench: Languages and Tools:
 
