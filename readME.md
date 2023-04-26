@@ -5,7 +5,7 @@
 <div id="badges" align="center">
     <a href="https://www.haanna.com">
         <img src="https://img.shields.io/badge/www.haanna.com-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a><br> 
-    <a href="https://www.linkedin.com/in/itshaanna/">
+    <a href="https://www.linkedin.com/in/ha-anna/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://www.codewars.com/users/haanna">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/></a>
