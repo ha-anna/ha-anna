@@ -17,8 +17,6 @@
     </a>
     <br>
     <img src="https://www.codewars.com/users/haanna/badges/micro?theme=light" alt="Codewars Kyu"/></a>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=ha-anna&label=Profile%20views&color=0e75b6&style=flat" alt="ha-anna" />
 </div>
 
 ### :woman_technologist: About Me:
