@@ -18,7 +18,7 @@
     <br>
     <img src="https://www.codewars.com/users/haanna/badges/micro?theme=light" alt="Codewars Kyu"/></a>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=its-haanna&label=Profile%20views&color=0e75b6&style=flat" alt="its-haanna" />
+    <img src="https://komarev.com/ghpvc/?username=ha-anna&label=Profile%20views&color=0e75b6&style=flat" alt="ha-anna" />
 </div>
 
 ### :woman_technologist: About Me:
@@ -32,7 +32,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 
 <br>
 
-[![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-haanna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Annas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha-anna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -87,7 +87,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-haanna&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-anna&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :books: Frameworks:
 
