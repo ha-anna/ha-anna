@@ -7,14 +7,13 @@
         <img src="https://img.shields.io/badge/www.haanna.com-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a><br> 
     <a href="https://www.linkedin.com/in/ha-anna/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://www.codewars.com/users/haanna">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/></a>
+     <a href="http://blog.haanna.com/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/></a>
     <br>
+        <a href="https://www.codewars.com/users/haanna">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/></a>
     <a href="https://codepen.io/haanna">
         <img src="https://img.shields.io/badge/codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></a>
-    <a href="https://twitter.com/haanna_dev">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <br>
     <img src="https://www.codewars.com/users/haanna/badges/micro?theme=light" alt="Codewars Kyu"/></a>
 </div>
@@ -25,6 +24,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 
 - :poland: Orignally from Poland but now living in Seoul, South Korea :kr:.
 - :seedling: Currently, I am learning Next.js and Node.js. I also work as a non-profit translator for freeCodeCamp's curriculum (English -> Polish).
+- :writing_hand: I am writing a blog series aimed at non-Korean speakers to teach them the Korean vocabulary frequently used in coding challenges: [KoreanCoding 101](https://haanna.hashnode.dev/series/korean-coding).
 - :beach_umbrella: When I am not coding or designing, I am hanging out with the local stray cats, learning Korean, or learning to play golf.
 - :envelope: How to reach me: <anna@haanna.com>
 
