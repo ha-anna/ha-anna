@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/www.haanna.com-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a><br> 
     <a href="https://www.linkedin.com/in/ha-anna/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-     <a href="http://blog.haanna.com/">
+     <a href="https://haanna.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/></a>
     <br>
         <a href="https://www.codewars.com/users/haanna">
