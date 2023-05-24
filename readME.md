@@ -23,7 +23,7 @@
 I am a Front-end developer & designer who focuses on creating beautiful and functional user experiences.
 
 - :poland: Orignally from Poland but now living in Seoul, South Korea :kr:.
-- :seedling: Currently, I am learning Next.js and Node.js. I also work as a non-profit translator for freeCodeCamp's curriculum (English -> Polish).
+- :seedling: Currently, I am working with a team of devs on creating a crowd-sourcing web app for Chingu's Voyage 44.
 - :writing_hand: I am writing a blog series aimed at non-Korean speakers to teach them the Korean vocabulary frequently used in coding challenges: [KoreanCoding 101](https://haanna.hashnode.dev/series/korean-coding).
 - :beach_umbrella: When I am not coding or designing, I am hanging out with the local stray cats, learning Korean, or learning to play golf.
 - :envelope: How to reach me: <anna@haanna.com>
