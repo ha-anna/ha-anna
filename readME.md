@@ -81,7 +81,7 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha-anna&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=ha-anna&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :books: Frameworks:
 
