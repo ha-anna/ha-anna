@@ -20,12 +20,12 @@
 
 ### :woman_technologist: About Me:
 
-I am a Front-end developer & designer who focuses on creating beautiful and functional user experiences.
+Frontend developer with a knack for backend and design. I love creating user-friendly interfaces and diving into the backend code when needed.
 
-- :poland: Orignally from Poland but now living in Seoul, South Korea :kr:.
-- :seedling: Currently, I am working with a team of devs on creating a crowd-sourcing web app for Chingu's Voyage 44.
+- :world_map: I have lived in Seoul for the past three years but I am originally from Poland.
+- :seedling: In the past, I worked for a Korean start-up company where I built an innovative Korean AI tutor app to help Korean language learners practice and improve their Korean conversation skills. Now, I am looking for a new exciting position where I can continue making valuable contributions to a dynamic team, crafting impactful solutions that enhance users' experiences and outcomes.
 - :writing_hand: I am writing a blog series aimed at non-Korean speakers to teach them the Korean vocabulary frequently used in coding challenges: [KoreanCoding 101](https://haanna.hashnode.dev/series/korean-coding).
-- :beach_umbrella: When I am not coding or designing, I am hanging out with the local stray cats, learning Korean, or learning to play golf.
+- :beach_umbrella: When I am not coding or designing, I am hanging out with my cats, learning Korean, or doing yoga.
 - :envelope: How to reach me: <anna@haanna.com>
 
 <br>
@@ -35,9 +35,6 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ---
 
 ## :book: Education:
-
-![Full stack Open](https://img.shields.io/badge/-Full%20stack%20open-lightgrey?style=for-the-badge&label=fs)
-- [Full Stack Open](https://fullstackopen.com/en/) (WIP)
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 - [The Frontend Developer Career Path](https://scrimba.com/certificate/uZReY5fx/gfrontend) (completed)
@@ -69,7 +66,8 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
  - [JavaScript: Understanding ES6 and Beyond](https://www.udemy.com/certificate/UC-97e83b1d-8fcf-4f85-9f8a-f7a3b0808297/) (completed)
  - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) (WIP)
  - [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/) (WIP)
- - [The Complete SQL Masterclass 2023](https://www.udemy.com/course/15-days-of-sql/) (WIP)
+ - [The Complete SQL Masterclass 2024](https://www.udemy.com/course/15-days-of-sql/) (WIP)
+ - [JavaScript Data Structures & Algorithms](https://www.udemy.com/course/data-structures-algorithms-javascript/) (WIP)
 
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -79,6 +77,9 @@ I am a Front-end developer & designer who focuses on creating beautiful and func
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 [![Top Langs](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=ha-anna&layout=donut&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
