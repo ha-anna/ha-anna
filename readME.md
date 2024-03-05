@@ -64,10 +64,6 @@ Frontend developer with a knack for backend and design. I love creating user-fri
  - [Illustrator 2022 MasterClass](https://www.udemy.com/certificate/UC-1498efc7-209c-4868-9845-9efce08ed34b/) (completed)
  - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/certificate/UC-cc81fa64-3850-4a32-bc0c-9e59eb8835ba/) (completed)
  - [JavaScript: Understanding ES6 and Beyond](https://www.udemy.com/certificate/UC-97e83b1d-8fcf-4f85-9f8a-f7a3b0808297/) (completed)
- - [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) (WIP)
- - [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/) (WIP)
- - [The Complete SQL Masterclass 2024](https://www.udemy.com/course/15-days-of-sql/) (WIP)
- - [JavaScript Data Structures & Algorithms](https://www.udemy.com/course/data-structures-algorithms-javascript/) (WIP)
 
 ## :hammer_and_wrench: Languages and Tools:
 
