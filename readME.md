@@ -24,9 +24,10 @@ Frontend developer with a knack for backend and design. I love creating user-fri
 
 - :world_map: I have lived in Seoul for the past three years but I am originally from Poland.
 - :seedling: In the past, I worked for a Korean start-up company where I built an innovative Korean AI tutor app to help Korean language learners practice and improve their Korean conversation skills. Now, I am looking for a new exciting position where I can continue making valuable contributions to a dynamic team, crafting impactful solutions that enhance users' experiences and outcomes.
-- :writing_hand: I am writing a blog series aimed at non-Korean speakers to teach them the Korean vocabulary frequently used in coding challenges [KoreanCoding 101](https://haanna.hashnode.dev/series/korean-coding) and also a [Problem-Solving 101](https://haanna.hashnode.dev/series/problem-solving-101) series. 
+- :tent: I am co-hosting [FreeCodeCamp Seoul](https://www.meetup.com/fccseoul/) meetups! 
+- :writing_hand: I am writing a blog series aimed at non-Korean speakers to teach them the Korean vocabulary frequently used in coding challenges [KoreanCoding 101](https://haanna.hashnode.dev/series/korean-coding). 
 - :beach_umbrella: When I am not coding or designing, I am hanging out with my cats, learning Korean, or doing yoga.
-- :envelope: How to reach me: <anna@haanna.com>
+- :envelope: How to reach me: <anna@haanna.com> or [LinkedIn](https://www.linkedin.com/in/ha-anna/)
 
 <br>
 
