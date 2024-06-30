@@ -75,7 +75,7 @@ Frontend developer with a knack for backend and design. I love creating user-fri
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Top Langs](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=ha-anna&layout=donut&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=ha-anna&layout=donut&theme=tokyonight&hide=html,EJS,CSS,SASS,Less)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :books: Frameworks:
 
