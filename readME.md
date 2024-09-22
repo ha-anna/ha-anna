@@ -25,7 +25,7 @@ Frontend developer with a knack for backend and design. I love creating user-fri
 - :woman_student: I am a Computer Science and Engineering student at Sogang University.
 - :world_map: Seoul is my home now but I was born in Poland.
 - :seedling: In the past, I worked for a Korean start-up company where I built an innovative Korean AI tutor app to help Korean language learners practice and improve their Korean conversation skills.
-- :tent: I am co-hosting [FreeCodeCamp Seoul](https://www.meetup.com/fccseoul/) meetups!  
+- :tent: I co-hosted [FreeCodeCamp Seoul](https://www.meetup.com/fccseoul/) meetups for 7 months.  
 - :beach_umbrella: When I am not coding or designing, I hang out with my cats, learn Korean, or do yoga.
 - :envelope: How to reach me: <anna@haanna.com> or [LinkedIn](https://www.linkedin.com/in/ha-anna/)
 
