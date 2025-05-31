@@ -7,14 +7,10 @@
         <img src="https://img.shields.io/badge/www.haanna.com-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a><br> 
     <a href="https://www.linkedin.com/in/ha-anna/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-     <a href="https://haanna.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/></a>
-    <br>
-        <a href="https://www.codewars.com/users/haanna">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars Badge"/></a>
     <a href="https://codepen.io/haanna">
         <img src="https://img.shields.io/badge/codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></a>
     <br>
+    <a href="https://www.codewars.com/users/haanna">
     <img src="https://www.codewars.com/users/haanna/badges/micro?theme=light" alt="Codewars Kyu"/></a>
 </div>
 
@@ -23,9 +19,9 @@
 Frontend developer with a knack for backend and design. I love creating user-friendly interfaces and diving into the backend code when needed.
 
 - :woman_student: I am a Computer Science and Engineering student at Sogang University.
-- :world_map: Seoul is my home now but I was born in Poland.
+- :world_map: Seoul is my home now, but I was born in Poland.
 - :seedling: In the past, I worked for a Korean start-up company where I built an innovative Korean AI tutor app to help Korean language learners practice and improve their Korean conversation skills.
-- :tent: I co-hosted [FreeCodeCamp Seoul](https://www.meetup.com/fccseoul/) meetups for 7 months.  
+- :tent: I used to co-host [FreeCodeCamp Seoul](https://www.meetup.com/fccseoul/) meetups.  
 - :beach_umbrella: When I am not coding or designing, I hang out with my cats, learn Korean, or do yoga.
 - :envelope: How to reach me: <anna@haanna.com> or [LinkedIn](https://www.linkedin.com/in/ha-anna/)
 
@@ -41,11 +37,6 @@ Frontend developer with a knack for backend and design. I love creating user-fri
 - [The Frontend Developer Career Path](https://scrimba.com/certificate/uZReY5fx/gfrontend) (completed)
 - [JavaScript Deep Dive Bootcamp](https://scrimba.com/certificate/uZReY5fx/gjavascript) (completed)
 - [Learn React](https://scrimba.com/certificate/uZReY5fx/glearnreact) (completed)
-
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-- [Bootstrap Course](https://www.codecademy.com/profiles/haanna/certificates/0595479d03627a8cb816b069000e4d06) (completed)
-- [Basics of Regular Expressions Course](https://www.codecademy.com/profiles/haanna/certificates/9da8e26980d5139405439ee7578b8b69) (completed)
-- [Sass course](https://www.codecademy.com/profiles/haanna/certificates/eb1ffda40f347629dcef6de33d3f9741) (completed)
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 - [Responsive Web Design](https://freecodecamp.org/certification/haanna/responsive-web-design) (completed)
