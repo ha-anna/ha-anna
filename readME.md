@@ -23,7 +23,7 @@ Frontend developer with a knack for backend and design. I love creating user-fri
 - :seedling: I worked for a Korean start-up company where I built an innovative Korean AI tutor app to help Korean language learners practice and improve their Korean conversation skills.
 - :tent: I used to co-host [FreeCodeCamp Seoul](https://www.meetup.com/fccseoul/) meetups.  
 - :beach_umbrella: When I am not coding or designing, I hang out with my cats, play games or have fun with friends.
-- :envelope: How to reach me: <anna@haanna.com> or [LinkedIn](https://www.linkedin.com/in/ha-anna/)
+- :envelope: How to reach me: <annaha.dev@gmail.com> or [LinkedIn](https://www.linkedin.com/in/ha-anna/)
 
 <br>
 
