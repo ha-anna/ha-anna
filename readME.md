@@ -1,33 +1,64 @@
-<div id="header" align="center">
-    <h1>Hi there!</h1>
-    <img src="gh_icon.png">
-</div>
-<div id="badges" align="center">
-    <a href="https://www.haanna.com">
-        <img src="https://img.shields.io/badge/www.haanna.com-55A4A7?style=for-the-badge" alt="Portfolio Badge" style="margin: 5px"/></a><br> 
-    <a href="https://www.linkedin.com/in/ha-anna/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://codepen.io/haanna">
-        <img src="https://img.shields.io/badge/codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/></a>
-    <br>
-    <a href="https://www.codewars.com/users/haanna">
-    <img src="https://www.codewars.com/users/haanna/badges/micro?theme=light" alt="Codewars Kyu"/></a>
-</div>
 
-### :woman_technologist: About Me:
+# Hi, I'm Anna 👋
 
-Frontend developer with a knack for backend and design. I love creating user-friendly interfaces and diving into the backend code when needed.
+I'm a Computer Science student at **Sogang University** (2024-2028) in Seoul with professional experience building AI-powered educational software.
 
-- :woman_student: I am a Computer Science and Engineering student at Sogang University (2024-2028).
-- :world_map: Seoul is my home now, but I was born in Poland.
-- :seedling: I worked for a Korean start-up company where I built an innovative Korean AI tutor app to help Korean language learners practice and improve their Korean conversation skills.
-- :tent: I used to co-host [FreeCodeCamp Seoul](https://www.meetup.com/fccseoul/) meetups.  
-- :beach_umbrella: When I am not coding or designing, I hang out with my cats, play games or have fun with friends.
-- :envelope: How to reach me: <annaha.dev@gmail.com> or [LinkedIn](https://www.linkedin.com/in/ha-anna/)
+I enjoy building thoughtful software, exploring new technologies, and solving real-world problems through engineering.
+
+## What I've Been Building
+
+### Stash
+
+> An iOS app that helps content creators organize, tag, and reuse B-roll footage for faster video editing.
+
+Tech: SwiftUI • SwiftData • RevenueCat • PostHog
+
+### ASCII Art Camera
+
+> Transforms live webcam input into real-time ASCII art using C++ and openFrameworks.
+
+**C++ • openFrameworks**
+
+
+### ASL Gesture Recognition
+
+> A convolutional neural network trained to recognize American Sign Language alphabet gestures.
+
+**Python • PyTorch**
+
+### Meowodoro
+
+> A playful Pomodoro timer that keeps you focused with cats, meows, and a lighthearted interface.
+
+Tech: Electron • JavaScript • HTML • CSS
+
+## Tech Stack
+
+**Languages**
+
+C/C++ • Swift • Python • JavaScript • Dart
+
+**Frameworks**
+
+SwiftUI • Vue • React • Node.js • Flutter • FastAPI
+
+**Tools**
+
+Git • GitHub Actions • Docker • Firebase • AWS
+
+## Currently
+
+- 📱 Building **Stash**
+- 💻 Working through **NeetCode 150**
+- 🧠 Learning iOS Architecture 
+- 🌱 Looking for Software Engineering internship opportunities
+
+## 💡 What I Enjoy
+
+I enjoy building software that combines thoughtful design with solid engineering. Whether it's a mobile app, backend service, or computer vision project, I'm happiest when solving real problems and continuously learning new technologies.
 
 <br>
 
 [![Annas's GitHub stats](https://github-readme-stats-lyart-phi.vercel.app/api?username=ha-anna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=ha-anna&layout=donut&theme=tokyonight&hide=html,EJS,CSS,SASS,Less)](https://github.com/anuraghazra/github-readme-stats)
-
