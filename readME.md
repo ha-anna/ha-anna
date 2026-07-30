@@ -1,9 +1,11 @@
 
-# Hi, I'm Anna 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=40&pause=1000&color=AE63F7&width=435&lines=Hi%2C+I'm+Anna+Ha!+)](https://git.io/typing-svg)
 
 I'm a Computer Science student at **Sogang University** (2024-2028) in Seoul with professional experience building AI-powered educational software.
 
 I enjoy building thoughtful software, exploring new technologies, and solving real-world problems through engineering.
+
+[![ha-anna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-anna&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## What I've Been Building
 
