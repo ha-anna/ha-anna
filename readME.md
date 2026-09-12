@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=40&pause=1000&color=AE63F7&width=435&lines=Hi%2C+I'm+Anna+Ha!+)](https://git.io/typing-svg)
 
-I'm a Computer Science student at **Sogang University** (2024-2028) in Seoul with professional experience building AI-powered educational software.
+I'm a Computer Science student at **Sogang University** (2024-2028) in Seoul with professional experience building AI-powered educational software. I'm interested in software engineering, computer vision, and machine learning.
 
 I enjoy building thoughtful software, exploring new technologies, and solving real-world problems through engineering.
 
@@ -9,24 +9,29 @@ I enjoy building thoughtful software, exploring new technologies, and solving re
 
 ## What I've Been Building
 
-### Stash
+### ASL MediaPipe Recognition
 
-> An iOS app that helps content creators organize, tag, and reuse B-roll footage for faster video editing.
+> Real-time ASL alphabet recognition using MediaPipe hand landmarks and neural network classification. A follow-up to my CNN-based ASL recognition project, exploring a more efficient approach using hand landmarks rather than raw images.
 
-Tech: SwiftUI • SwiftData • RevenueCat • PostHog
+**JavaScript • MediaPipe • Computer Vision • Machine Learning**
+
+### Knowledge Agent
+
+> A production-inspired RAG backend built from scratch for asking questions about documents. Built to explore retrieval-augmented generation, vector search, embeddings, and backend architecture.
+
+**Python • FastAPI • ChromaDB • Ollama • Docker**
 
 ### ASCII Art Camera
 
-> Transforms live webcam input into real-time ASCII art using C++ and openFrameworks.
+> Transforms live webcam input into real-time ASCII art using C++ and openFrameworks. An exploration of real-time image processing and creative coding.
 
 **C++ • openFrameworks**
 
-
 ### ASL Gesture Recognition
 
-> A convolutional neural network trained to recognize American Sign Language alphabet gestures.
+> A convolutional neural network trained to recognize American Sign Language alphabet gestures. A university project exploring image classification with convolutional neural networks.
 
-**Python • PyTorch**
+**Python • PyTorch • Computer Vision • Deep Learning**
 
 ### Meowodoro
 
@@ -38,22 +43,23 @@ Tech: Electron • JavaScript • HTML • CSS
 
 **Languages**
 
-C/C++ • Swift • Python • JavaScript • Dart
+C/C++ • Python • JavaScript • Swift • Dart
 
 **Frameworks**
 
-SwiftUI • Vue • React • Node.js • Flutter • FastAPI
+FastAPI • PyTorch • MediaPipe • SwiftUI • Flutter • React • Node.js
 
 **Tools**
 
-Git • GitHub Actions • Docker • Firebase • AWS
+Git • Docker • GitHub Actions • ChromaDB • Ollama • AWS
 
 ## Currently
 
-- 📱 Building **Stash**
+- 🤖 Building a real-time ASL aphabet recognition system with MediaPipe and neural networks
+- 🧠 Learning more about machine learning and computer vision
 - 💻 Working through **NeetCode 150**
-- 🧠 Learning iOS Architecture 
-- 🌱 Looking for Software Engineering internship opportunities
+- 🐳 Building backend projects with FastAPI, Docker, and RAG
+- 🌱 Looking for Software Engineering / ML / Computer Vision internship opportunities
 
 ## 💡 What I Enjoy
 
