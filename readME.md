@@ -6,8 +6,6 @@ I'm currently focusing on computer vision, machine learning, and software engine
 
 I enjoy building practical software, learning how things work in depth, and working on projects that can be useful to people.
 
-
-[![ha-anna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-anna&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## What I've Been Building
 
 ### VisionX CXR-CAD
@@ -76,9 +74,3 @@ Git • Docker • GitHub Actions • AWS • Linux
 I'm especially interested in building software that is useful, efficient, accessible, and well-engineered.
 
 I enjoy working on projects where technical depth can make systems more practical, reliable, and easier for people to use.
-
-<br>
-
-[![Anna's GitHub stats](https://github-readme-stats-lyart-phi.vercel.app/api?username=ha-anna&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-lyart-phi.vercel.app/api/top-langs/?username=ha-anna&layout=donut&theme=tokyonight&hide=html,EJS,CSS,SASS,Less)](https://github.com/anuraghazra/github-readme-stats)
