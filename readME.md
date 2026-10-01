@@ -6,8 +6,8 @@ I'm currently focusing on computer vision, machine learning, and software engine
 
 I enjoy building practical software, learning how things work in depth, and working on projects that can be useful to people.
 
-[![ha-anna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-anna&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![ha-anna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ha-anna&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## What I've Been Building
 
 ### VisionX CXR-CAD
